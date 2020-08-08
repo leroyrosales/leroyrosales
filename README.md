@@ -38,7 +38,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=leroyrosales&show_icons=true&hide_border=true" />
+<img align="left" alt="Leroy's Github Stats" src="https://github-readme-stats.leroyrosales.vercel.app/api?username=leroyrosales&show_icons=true&hide_border=true" />
 
 [website]: https://leroyrosales.com
 [linkedin]: https://linkedin.com/in/leroyrosales
