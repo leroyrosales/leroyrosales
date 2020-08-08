@@ -2,7 +2,7 @@
 
 ## I'm a just a nerd that likes punk.
 
-- 🔭 I’m currently working at [the University of Texas at Austin][https://utexas.edu]!
+- 🔭 I’m currently working at [the University of Texas at Austin][utexas]!
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with everyone, but really anyone who likes making cool stuff
 - 🥅 2020 Goals: Record a few tutorials
@@ -42,3 +42,4 @@
 
 [website]: https://leroyrosales.com
 [linkedin]: https://linkedin.com/in/leroyrosales
+[utexas]: https://utexas.edu
