@@ -40,8 +40,7 @@
 
 <img align="left" alt="Leroy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=leroyrosales&show_icons=true&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leroyrosales&layout=compact)](https://github.com/leroyrosales/github-readme-stats)
-
+<img align="left" alt="Leroy's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leroyrosales&layout=compact&hide_border=true" />
 
 [website]: https://leroyrosales.com
 [linkedin]: https://linkedin.com/in/leroyrosales
