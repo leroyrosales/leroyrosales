@@ -5,7 +5,7 @@
 - 🔭 I’m currently working at [the University of Texas at Austin][utexas]!
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with everyone, but really anyone who likes making cool stuff
-- 🥅 2021 Goals: Revamp my current department's 60+ sites 
+- 🥅 2021 Goals: Revamp my current department's 80+ sites 
 
 ### Connect with me:
 
