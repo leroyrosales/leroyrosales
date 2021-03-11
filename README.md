@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Personal Site" width="22px" src="https://www.clipartmax.com/png/middle/115-1150907_web-browsing-internet-web-browser-icons-10.png" />][website]
+[<img align="left" alt="Personal Site" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbSzFoa9cXf8xIV9Je4hu6xNq1IRQBFYtPow&usqp=CAU" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://camo.githubusercontent.com/2b904313e8a94a29dde1a57258684a3e07310da404ba076c29c2528b83edf730/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f706e672f3531322f3137342f3137343835372e706e67" />][linkedin]
 
 <br />
