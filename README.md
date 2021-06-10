@@ -1,13 +1,16 @@
 ### Howdy, I'm [Leroy][website] 👋
 
 ## I'm a just a nerd that likes punk.
+---
 
 - 🔭 I’m currently working at [the University of Texas at Austin][utexas]!
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with everyone, but really anyone who likes making cool stuff
 - 🥅 2021 Goals: Revamp my current department's 80+ sites 
 
+---
 ### Connect with me:
+---
 
 [<img align="left" alt="Personal Site" width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbSzFoa9cXf8xIV9Je4hu6xNq1IRQBFYtPow&usqp=CAU" />][website]
 [<img align="left" alt="LinkedIn" width="32px" src="https://camo.githubusercontent.com/2b904313e8a94a29dde1a57258684a3e07310da404ba076c29c2528b83edf730/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f706e672f3531322f3137342f3137343835372e706e67" />][linkedin]
@@ -40,7 +43,9 @@
 <br />
 <br />
 
+---
 ## &#x1f4c8; My GitHub Stats
+---
 
 <img align="left" alt="Leroy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=leroyrosales&show_icons=true&hide_border=true&count_private=true" />
 
