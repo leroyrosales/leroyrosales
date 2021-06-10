@@ -38,8 +38,8 @@
 
 <br />
 <br />
----
 
+---
 ### &#x1f4c8; My GitHub Stats
 
 <img align="left" alt="Leroy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=leroyrosales&show_icons=true&hide_border=true&count_private=true" />
