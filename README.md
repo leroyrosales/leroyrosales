@@ -32,6 +32,7 @@
 <img align="left" alt="WordPress" width="36px" src="https://camo.githubusercontent.com/e85b93e601d50a50c441d270ee99c4d45954e4585d6d13b81cb7b560bd06919e/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f706e672f3531322f3136382f3136383831302e706e67" />
 <img align="left" alt="Jekyll" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jekyll/jekyll.png" />
 <img align="left" alt="Gulp" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png" />
+<img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 
 <br />
