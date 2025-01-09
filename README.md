@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning to be a better parent.
 - 👯 I’m looking to collaborate with everyone, but really anyone who likes making dope stuff.
-- 🥅 2023 Goals: Keep killin' it.
+- 🥅 2025 Goals: Do more exercsies for my back.
 
 ---
 
