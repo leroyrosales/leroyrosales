@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning to be a better parent.
 - 👯 I’m looking to collaborate with everyone, but really anyone who likes making dope stuff.
-- 🥅 2025 Goals: Do more exercsies for my back.
+- 🥅 2026 Goals: Run more with our puppy, Barbie. Stay sane.
 
 ---
 
